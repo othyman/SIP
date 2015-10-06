@@ -33,9 +33,22 @@
                     $this-> Further_Instructions = $Further_Instructions;
                 }
 //Now here I was told to create a construct function.  Did I need to include the //$Identifier?                    
+
                     
-                public function search_event(result){
-                    //Here I want to be able to search for an event through the game's //title
+//This function below is for making the event.                    
+                public function place_event(){
+                    //However I would get the user to fill in the fields and spaces //necessary.  I was not taught on how to create places for the user to fill.
+                }
+                    
+                    //Here I want to be able to search for an event through the game's //title. I would imagine something like.                    
+                
+                    public function search_event(result){
+                    //$gameName = get name of game entered in by user
+                    //for($selection in (however I call for the eventtable)){
+                    //  if ($selection == $gameName){
+                            //echo $selection;
+                            //}
+                    //}
                 }
                 }
                     

@@ -19,10 +19,14 @@
                     $this-> Password = $Password;
                     $this-> Email = $Email;
                 }
+                    
                 public function createProfile(){
                 }
                     // I don't know what to put into this method yet.
                 }
+
+                public function logIN(){
+                    //
 
 
             ?>
